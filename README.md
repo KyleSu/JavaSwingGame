@@ -1,2 +1,2 @@
-# cis120-finalproject
-Final project (Java Swing game) for CIS120
+# JavaSwingGame
+Snake implemened with Java Swing
